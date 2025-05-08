@@ -40,21 +40,21 @@
             // 
             // tbAncienMdp
             // 
-            tbAncienMdp.Location = new Point(302, 85);
+            tbAncienMdp.Location = new Point(318, 135);
             tbAncienMdp.Name = "tbAncienMdp";
             tbAncienMdp.Size = new Size(129, 23);
             tbAncienMdp.TabIndex = 0;
             // 
             // tbNouveauMdp
             // 
-            tbNouveauMdp.Location = new Point(302, 143);
+            tbNouveauMdp.Location = new Point(318, 194);
             tbNouveauMdp.Name = "tbNouveauMdp";
             tbNouveauMdp.Size = new Size(129, 23);
             tbNouveauMdp.TabIndex = 1;
             // 
             // tbConfirmMdp
             // 
-            tbConfirmMdp.Location = new Point(302, 194);
+            tbConfirmMdp.Location = new Point(318, 265);
             tbConfirmMdp.Name = "tbConfirmMdp";
             tbConfirmMdp.Size = new Size(129, 23);
             tbConfirmMdp.TabIndex = 2;
@@ -62,7 +62,7 @@
             // label1
             // 
             label1.AutoSize = true;
-            label1.Location = new Point(156, 88);
+            label1.Location = new Point(156, 138);
             label1.Name = "label1";
             label1.Size = new Size(117, 15);
             label1.TabIndex = 3;
@@ -71,7 +71,7 @@
             // label2
             // 
             label2.AutoSize = true;
-            label2.Location = new Point(156, 143);
+            label2.Location = new Point(162, 194);
             label2.Name = "label2";
             label2.Size = new Size(128, 15);
             label2.TabIndex = 4;
@@ -80,7 +80,7 @@
             // label3
             // 
             label3.AutoSize = true;
-            label3.Location = new Point(156, 197);
+            label3.Location = new Point(156, 265);
             label3.Name = "label3";
             label3.Size = new Size(134, 15);
             label3.TabIndex = 5;
@@ -88,7 +88,7 @@
             // 
             // btn_valid
             // 
-            btn_valid.Location = new Point(320, 240);
+            btn_valid.Location = new Point(348, 323);
             btn_valid.Name = "btn_valid";
             btn_valid.Size = new Size(75, 23);
             btn_valid.TabIndex = 6;
@@ -99,7 +99,7 @@
             // label4
             // 
             label4.AutoSize = true;
-            label4.Location = new Point(302, 32);
+            label4.Location = new Point(318, 55);
             label4.Name = "label4";
             label4.Size = new Size(121, 15);
             label4.TabIndex = 7;

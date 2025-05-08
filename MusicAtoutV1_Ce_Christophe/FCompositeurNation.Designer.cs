@@ -93,7 +93,7 @@
             // 
             // btAjout
             // 
-            btAjout.Location = new Point(9, 440);
+            btAjout.Location = new Point(59, 440);
             btAjout.Name = "btAjout";
             btAjout.Size = new Size(75, 23);
             btAjout.TabIndex = 4;
@@ -103,7 +103,7 @@
             // 
             // btModif
             // 
-            btModif.Location = new Point(90, 440);
+            btModif.Location = new Point(182, 440);
             btModif.Name = "btModif";
             btModif.Size = new Size(107, 23);
             btModif.TabIndex = 5;
@@ -113,7 +113,7 @@
             // 
             // btSupp
             // 
-            btSupp.Location = new Point(203, 440);
+            btSupp.Location = new Point(325, 440);
             btSupp.Name = "btSupp";
             btSupp.Size = new Size(85, 23);
             btSupp.TabIndex = 6;

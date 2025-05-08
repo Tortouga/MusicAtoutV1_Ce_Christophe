@@ -56,7 +56,7 @@
             // label1
             // 
             label1.AutoSize = true;
-            label1.Location = new Point(25, 29);
+            label1.Location = new Point(40, 32);
             label1.Name = "label1";
             label1.Size = new Size(112, 15);
             label1.TabIndex = 0;
@@ -65,7 +65,7 @@
             // label2
             // 
             label2.AutoSize = true;
-            label2.Location = new Point(25, 64);
+            label2.Location = new Point(25, 80);
             label2.Name = "label2";
             label2.Size = new Size(127, 15);
             label2.TabIndex = 1;
@@ -74,7 +74,7 @@
             // label3
             // 
             label3.AutoSize = true;
-            label3.Location = new Point(25, 93);
+            label3.Location = new Point(85, 146);
             label3.Name = "label3";
             label3.Size = new Size(67, 15);
             label3.TabIndex = 2;
@@ -83,7 +83,7 @@
             // label4
             // 
             label4.AutoSize = true;
-            label4.Location = new Point(30, 179);
+            label4.Location = new Point(79, 218);
             label4.Name = "label4";
             label4.Size = new Size(73, 15);
             label4.TabIndex = 3;
@@ -92,7 +92,7 @@
             // label5
             // 
             label5.AutoSize = true;
-            label5.Location = new Point(347, 179);
+            label5.Location = new Point(380, 223);
             label5.Name = "label5";
             label5.Size = new Size(76, 15);
             label5.TabIndex = 4;
@@ -101,7 +101,7 @@
             // label6
             // 
             label6.AutoSize = true;
-            label6.Location = new Point(30, 212);
+            label6.Location = new Point(81, 268);
             label6.Name = "label6";
             label6.Size = new Size(71, 15);
             label6.TabIndex = 5;
@@ -110,7 +110,7 @@
             // label7
             // 
             label7.AutoSize = true;
-            label7.Location = new Point(33, 241);
+            label7.Location = new Point(114, 331);
             label7.Name = "label7";
             label7.Size = new Size(38, 15);
             label7.TabIndex = 6;
@@ -118,7 +118,7 @@
             // 
             // btnSubmit
             // 
-            btnSubmit.Location = new Point(167, 278);
+            btnSubmit.Location = new Point(167, 398);
             btnSubmit.Name = "btnSubmit";
             btnSubmit.Size = new Size(75, 23);
             btnSubmit.TabIndex = 7;
@@ -128,21 +128,21 @@
             // 
             // tbNom
             // 
-            tbNom.Location = new Point(167, 26);
+            tbNom.Location = new Point(167, 29);
             tbNom.Name = "tbNom";
             tbNom.Size = new Size(100, 23);
             tbNom.TabIndex = 8;
             // 
             // tbPrenom
             // 
-            tbPrenom.Location = new Point(167, 56);
+            tbPrenom.Location = new Point(167, 77);
             tbPrenom.Name = "tbPrenom";
             tbPrenom.Size = new Size(100, 23);
             tbPrenom.TabIndex = 9;
             // 
             // tbRemarque
             // 
-            tbRemarque.Location = new Point(167, 85);
+            tbRemarque.Location = new Point(167, 112);
             tbRemarque.Multiline = true;
             tbRemarque.Name = "tbRemarque";
             tbRemarque.Size = new Size(548, 80);
@@ -150,14 +150,14 @@
             // 
             // tbNais
             // 
-            tbNais.Location = new Point(167, 171);
+            tbNais.Location = new Point(167, 215);
             tbNais.Name = "tbNais";
             tbNais.Size = new Size(100, 23);
             tbNais.TabIndex = 11;
             // 
             // tbMort
             // 
-            tbMort.Location = new Point(465, 176);
+            tbMort.Location = new Point(462, 218);
             tbMort.Name = "tbMort";
             tbMort.Size = new Size(100, 23);
             tbMort.TabIndex = 12;
@@ -166,7 +166,7 @@
             // 
             cboNation.DropDownStyle = ComboBoxStyle.DropDownList;
             cboNation.FormattingEnabled = true;
-            cboNation.Location = new Point(167, 204);
+            cboNation.Location = new Point(167, 265);
             cboNation.Name = "cboNation";
             cboNation.Size = new Size(121, 23);
             cboNation.TabIndex = 13;
@@ -175,14 +175,14 @@
             // 
             cboStyle.DropDownStyle = ComboBoxStyle.DropDownList;
             cboStyle.FormattingEnabled = true;
-            cboStyle.Location = new Point(167, 233);
+            cboStyle.Location = new Point(167, 328);
             cboStyle.Name = "cboStyle";
             cboStyle.Size = new Size(121, 23);
             cboStyle.TabIndex = 14;
             // 
             // btnCancel
             // 
-            btnCancel.Location = new Point(288, 278);
+            btnCancel.Location = new Point(270, 398);
             btnCancel.Name = "btnCancel";
             btnCancel.Size = new Size(75, 23);
             btnCancel.TabIndex = 15;

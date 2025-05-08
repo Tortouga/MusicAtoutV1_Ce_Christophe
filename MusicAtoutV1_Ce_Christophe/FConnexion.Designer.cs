@@ -40,10 +40,11 @@
             // 
             // pictureBox1
             // 
+            pictureBox1.BackColor = Color.Transparent;
             pictureBox1.BackgroundImage = (Image)resources.GetObject("pictureBox1.BackgroundImage");
-            pictureBox1.Location = new Point(3, 12);
+            pictureBox1.Location = new Point(23, 71);
             pictureBox1.Name = "pictureBox1";
-            pictureBox1.Size = new Size(794, 402);
+            pictureBox1.Size = new Size(737, 313);
             pictureBox1.TabIndex = 0;
             pictureBox1.TabStop = false;
             // 
@@ -82,9 +83,9 @@
             // 
             // btConnexion
             // 
-            btConnexion.BackColor = Color.Blue;
+            btConnexion.BackColor = Color.DarkGreen;
             btConnexion.ForeColor = SystemColors.ButtonHighlight;
-            btConnexion.Location = new Point(12, 83);
+            btConnexion.Location = new Point(107, 101);
             btConnexion.Name = "btConnexion";
             btConnexion.Size = new Size(75, 23);
             btConnexion.TabIndex = 5;

@@ -108,7 +108,7 @@
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
-            BackColor = Color.FromArgb(255, 192, 128);
+            BackColor = Color.Chocolate;
             ClientSize = new Size(800, 450);
             Controls.Add(dgvCompositeur);
             Controls.Add(txtFin);

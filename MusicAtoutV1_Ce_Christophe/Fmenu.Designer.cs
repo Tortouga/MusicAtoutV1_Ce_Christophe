@@ -67,28 +67,28 @@
             // villesToolStripMenuItem
             // 
             villesToolStripMenuItem.Name = "villesToolStripMenuItem";
-            villesToolStripMenuItem.Size = new Size(152, 22);
+            villesToolStripMenuItem.Size = new Size(153, 22);
             villesToolStripMenuItem.Text = "Villes";
             villesToolStripMenuItem.Click += villesToolStripMenuItem_Click;
             // 
             // sallesToolStripMenuItem
             // 
             sallesToolStripMenuItem.Name = "sallesToolStripMenuItem";
-            sallesToolStripMenuItem.Size = new Size(152, 22);
+            sallesToolStripMenuItem.Size = new Size(153, 22);
             sallesToolStripMenuItem.Text = "Salles";
             sallesToolStripMenuItem.Click += sallesToolStripMenuItem_Click;
             // 
             // batimentsToolStripMenuItem
             // 
             batimentsToolStripMenuItem.Name = "batimentsToolStripMenuItem";
-            batimentsToolStripMenuItem.Size = new Size(152, 22);
+            batimentsToolStripMenuItem.Size = new Size(153, 22);
             batimentsToolStripMenuItem.Text = "Batiments";
             batimentsToolStripMenuItem.Click += batimentsToolStripMenuItem_Click;
             // 
             // typesDoeuvreToolStripMenuItem
             // 
             typesDoeuvreToolStripMenuItem.Name = "typesDoeuvreToolStripMenuItem";
-            typesDoeuvreToolStripMenuItem.Size = new Size(152, 22);
+            typesDoeuvreToolStripMenuItem.Size = new Size(153, 22);
             typesDoeuvreToolStripMenuItem.Text = "Types d'oeuvre";
             typesDoeuvreToolStripMenuItem.Click += typesDoeuvreToolStripMenuItem_Click;
             // 
@@ -130,14 +130,14 @@
             // gestionToolStripMenuItem
             // 
             gestionToolStripMenuItem.Name = "gestionToolStripMenuItem";
-            gestionToolStripMenuItem.Size = new Size(180, 22);
+            gestionToolStripMenuItem.Size = new Size(171, 22);
             gestionToolStripMenuItem.Text = "Gestion";
             gestionToolStripMenuItem.Click += gestionToolStripMenuItem_Click_1;
             // 
             // changementMdpToolStripMenuItem
             // 
             changementMdpToolStripMenuItem.Name = "changementMdpToolStripMenuItem";
-            changementMdpToolStripMenuItem.Size = new Size(180, 22);
+            changementMdpToolStripMenuItem.Size = new Size(171, 22);
             changementMdpToolStripMenuItem.Text = "Changement mdp";
             changementMdpToolStripMenuItem.Click += changementMdpToolStripMenuItem_Click;
             // 
@@ -153,7 +153,7 @@
             // 
             // btn_deco
             // 
-            btn_deco.BackColor = Color.IndianRed;
+            btn_deco.BackColor = Color.Red;
             btn_deco.Location = new Point(26, 462);
             btn_deco.Name = "btn_deco";
             btn_deco.Size = new Size(92, 23);

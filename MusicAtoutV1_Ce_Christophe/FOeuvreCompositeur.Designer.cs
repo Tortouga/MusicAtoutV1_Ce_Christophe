@@ -116,7 +116,7 @@
             // 
             // pictureBox1
             // 
-            pictureBox1.BackColor = Color.Coral;
+            pictureBox1.BackColor = Color.Chocolate;
             pictureBox1.Location = new Point(366, 37);
             pictureBox1.Name = "pictureBox1";
             pictureBox1.Size = new Size(551, 577);
@@ -152,6 +152,7 @@
             label5.Size = new Size(122, 15);
             label5.TabIndex = 9;
             label5.Text = "Vous avez Selectionné";
+            label5.Click += label5_Click;
             // 
             // label6
             // 
@@ -245,6 +246,7 @@
             lbOeuvre.Size = new Size(169, 15);
             lbOeuvre.TabIndex = 20;
             lbOeuvre.Text = "Les oeuvres de ce compositeur";
+            lbOeuvre.Click += lbOeuvre_Click;
             // 
             // dgvOeuvresCompositeur
             // 
